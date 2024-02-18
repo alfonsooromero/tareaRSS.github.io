@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rss version="2.0">
+    <channel>
+        <title>Rocket League ESports</title>
+        <link>https://www.rocketleague.com/es-es</link>
+        <description>Repaso por la escena competitiva actual de Rocket League. RLCS.</description>
+        <category>Rocket League</category>
+        <language>es-ES</language>
+        <lastBuildDate>Sun, 18 Feb 2024 12:00:00 GMT</lastBuildDate>
+        <managingEditor>a23ronoal@iesgrancapitan.org(Alfonso Javier Romero Noci)</managingEditor>
+        <skipHours>
+            <hour>0</hour>
+            <hour>1</hour>
+            <hour>2</hour>
+            <hour>3</hour>
+            <hour>4</hour>
+            <hour>5</hour>
+        </skipHours>
+        <skipDays>
+            <day>Saturday</day>
+            <day>Sunday</day>
+        </skipDays>
+        <item>
+            <title>Zen se corona como el mejor jugador del mundo de Rocket League</title>
+            <link>https://www.youtube.com/watch?v=dVVvXiqI67g</link>
+            <description>Tras un año de sorpresas, el jugador Australiano Aidan Hui, más conocido como Zen, ha batido un nuevo récord y ha conseguido una racha de 10 jornadas seguidas siendo MVP. Sin duda, le espera un futuro brillante.</description>
+            <author>a23ronoal@iesgrancapitan.org(Alfonso Javier Romero Noci)</author>
+            <pubDate>Sun, 18 Feb 2024 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>JZR ficha por Vitality como nuevo creador de contenido</title>
+            <link>https://www.twitch.tv/just_jzr</link>
+            <description>Sin duda, este último año ha sido muy importante para la creación de contenido de Rocket Leaue. Entre muchos creadores, destaca el ex-jugador profesional JZR, que acaba de fichar por Vitality, afirmando que dominarán el ámbito de la creación de contenido</description>
+            <author>a23ronoal@iesgrancapitan.org(Alfonso Javier Romero Noci)</author>
+            <pubDate>Sun, 18 Feb 2024 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>Se anuncia destino del siguiente torneo mundial de la Rocket League Championship Series</title>
+            <link>https://en.wikipedia.org/wiki/Rocket_League_Championship_Series</link>
+            <description>El último jueves, la cuenta oficial de Twitter de la RLCS anunción que el próximo mundial de la RLCS, el torneo más importante de la escena competitiva de Rocket League, se celebrará en Valencia el próximo año</description>
+            <author>a23ronoal@iesgrancapitan.org(Alfonso Javier Romero Noci)</author>
+            <pubDate>Sun, 18 Feb 2024 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>Finalmente, Rocket League cambiará de motor gráfico</title>
+            <link>https://www.esportmaniacos.com/rocket-league/cambio-radical-rocket-league-motor/</link>
+            <description>Tras 9 años de espera, Pysonix decide dar un cambio drástico a su juego estrella, introduciendo Unreal Engine 5 como su nuevo motor gráfico, lo que dará lugar a una nueva gama de posibilidades visuales y de jugabilidad, que le darán al juego el cambio que toda la comunidad estaba esperando.</description>
+            <author>a23ronoal@iesgrancapitan.org(Alfonso Javier Romero Noci)</author>
+            <pubDate>Sun, 18 Feb 2024 12:00:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
